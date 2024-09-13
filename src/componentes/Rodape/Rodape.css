@@ -1,0 +1,28 @@
+.footer {
+    align-items: center;
+    background-color: blue;
+    display: flex;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    height: 150px;
+}
+
+.footer section {
+    flex: auto;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.imgRedeSocial {
+    width: 20px;
+}
+
+.imgLogo {
+    width: 100px;
+}

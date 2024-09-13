@@ -1,0 +1,19 @@
+.campo-texto {
+    margin: 24px 0;
+}
+
+.campo-texto label {
+    display: flex;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.campo-texto input {
+    background-color: #FFF;
+    border: none;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 30px rgba(128, 69, 69, 0.08);
+    font-size: 24px;
+    padding: 24px;
+    width: 100%;
+}
